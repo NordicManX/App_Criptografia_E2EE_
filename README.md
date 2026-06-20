@@ -64,3 +64,12 @@ pyinstaller --onefile --noconsole app_criptografia.py
 ```
 
 O arquivo final estará disponível na pasta dist/ gerada automaticamente.
+
+## 🛠️ Tecnologias Utilizadas
+Python 3: Linguagem base do projeto.
+
+Tkinter: Biblioteca padrão do Python utilizada para a construção da Interface Gráfica de Usuário (GUI).
+
+RSA: Módulo Python puro responsável pela geração do par de chaves matemáticas de 512 bits e pelas funções de encrypt/decrypt.
+
+Binascii: Utilizado para a conversão didática dos bytes criptografados em formato de string hexadecimal.
