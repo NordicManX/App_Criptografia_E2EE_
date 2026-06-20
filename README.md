@@ -53,8 +53,9 @@ pip install tkinter
 python app_criptografia.py
 ```
 
-### - 📦 Distribuindo para Alunos (Versão Executável)
-Para facilitar o uso em sala de aula ou em computadores de escolas que não possuem o Python instalado, o projeto pode ser empacotado em um arquivo único executável (.exe para Windows).
+## - 📦 Distribuindo para Alunos (Versão Executável)
+### Para facilitar o uso em sala de aula ou em computadores de escolas que não possuem o Python instalado, o projeto pode ser empacotado em um arquivo único executável (.exe para Windows).
+### Na lateral direita em Releases a opção v1.0.0 estará disponivel.
 
 Caso deseje compilar a sua própria versão executável:
 ```bash
